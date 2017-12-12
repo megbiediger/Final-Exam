@@ -54,6 +54,13 @@ h2{
   padding-top: 35px;
 }
 
+.seemore{
+  background-color: white;
+  margin-right: 75%;
+  border: 2px solid black;
+  text-align: center;
+}
+
 @media(min-width: 650px) {
   	.column1 {
   		float: left;
